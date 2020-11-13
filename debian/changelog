@@ -1,3 +1,9 @@
+hello (2.10-1ubuntu1) xenial; urgency=medium
+
+  * New release with scripts
+
+ --  <nicolas@fa48e9445278>  Fri, 13 Nov 2020 08:05:42 +0000
+
 hello (2.10-1) unstable; urgency=low
 
   * New upstream release.
